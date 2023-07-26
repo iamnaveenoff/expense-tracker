@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "764777109614",
+    "project_id": "nft-expense-tracker",
+    "storage_bucket": "nft-expense-tracker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764777109614:android:ecfadef174a56ca8d72e7f",
+        "android_client_info": {
+          "package_name": "in.iamnaveenoff.exptracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "764777109614-g4tdoe9a8esm2g5q07sg5vucm3vt9vjr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuf6-l8uxIkuLAXzCRIbd5Y2RiH8HmrII"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "764777109614-g4tdoe9a8esm2g5q07sg5vucm3vt9vjr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

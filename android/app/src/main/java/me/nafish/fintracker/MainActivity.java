@@ -1,4 +1,4 @@
-package me.nafish.fintracker;
+package in.iamnaveenoff.exptracker;
 
 import io.flutter.embedding.android.FlutterActivity;
 
